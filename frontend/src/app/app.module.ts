@@ -11,14 +11,25 @@ import { FooterComponent } from './components/template/footer/footer.component';
 import { NavComponent } from './components/template/nav/nav.component';
 
 import {MatSidenavModule} from '@angular/material/sidenav';
+import {MatCardModule} from '@angular/material/card';
 import {MatListModule} from '@angular/material/list';
+import { HomeComponent } from './views/home/home.component';
+import { ProductsComponent } from './views/products/products.component';
+import { GreenDirective } from './directives/green.directive';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
+import { MatButtonModule } from '@angular/material/button';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    NavComponent
+    NavComponent,
+    HomeComponent,
+    ProductsComponent,
+    GreenDirective,
+    ProductCreateComponent
   ],
   imports: [
     BrowserModule,
@@ -26,9 +37,13 @@ import {MatListModule} from '@angular/material/list';
     BrowserAnimationsModule,
     MatToolbarModule,
     MatListModule,
-    MatSidenavModule
+    MatSidenavModule,
+    MatCardModule,
+    MatButtonModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
