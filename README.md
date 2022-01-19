@@ -5,7 +5,7 @@
 ### This is a project made with angular on the frontend and json-server on the backend with the intention of deepening my knowledge of the framework angular.
 
 # ✅ Project Status:
-### 🚧 Product Management 💵 Under construction... 🚧
+### 🚧 Product Management 👨‍💼 Under construction... 🚧
 
 # 💻 Languages and Tools used in the project:
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
