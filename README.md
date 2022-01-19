@@ -1,3 +1,5 @@
+![Product Management](https://user-images.githubusercontent.com/57325727/150052006-2c79b433-79cc-41e4-979e-a3f2df1ea3ad.png)
+
 # 👨‍💼 Product Management
 
 ### This is a project made with angular on the frontend and json-server on the backend with the intention of deepening my knowledge of the framework angular.
