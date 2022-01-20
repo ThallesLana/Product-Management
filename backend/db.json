@@ -1,25 +1,29 @@
 {
-    "products": [
-      {
-          "name": "Bic Pen",
-          "price": 5.89,
-          "id": 1
-          
-      },
-      {
-          "name": "Macbook Air Pro",
-          "price": 12000.89,
-          "id": 2
-      },
-      {
-          "name": "Samsung S20+",
-          "price": 5000.98,
-          "id": 3
-      },
-      {
-        "name": "Notebook Ultrabook Samsung",
-        "price": "5478.98",
-        "id": 4
-      }
-    ]
-  }
+  "products": [
+    {
+      "name": "Bic Pen",
+      "price": 5.89,
+      "id": 1
+    },
+    {
+      "name": "Macbook Air Pro",
+      "price": 12000.89,
+      "id": 2
+    },
+    {
+      "name": "Samsung S20+",
+      "price": 5000.98,
+      "id": 3
+    },
+    {
+      "name": "Notebook Ultrabook Samsung",
+      "price": "5478.98",
+      "id": 4
+    },
+    {
+      "name": "Teste de produto",
+      "price": 125.98,
+      "id": 5
+    }
+  ]
+}
