@@ -20,5 +20,5 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ThallesLana"><img src="https://avatars.githubusercontent.com/u/57325727?v=4" width="100px; style="border-radius: 100%"" alt=""/><br /><sub><b>Thalles Fernandes</b></sub></a><br /><a href="https://github.com/ThallesLana" title="Thalles">💻🚀</a></td>
+    <td align="center"><a href="https://github.com/ThallesLana"><img src="https://avatars.githubusercontent.com/u/57325727?v=4" width="100px;" alt=""/><br /><sub><b>Thalles Fernandes</b></sub></a><br /><a href="https://github.com/ThallesLana" title="Thalles">💻🚀</a></td>
 </table>
